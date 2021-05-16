@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jontes-Tech
+- 👀 I’m interested in almost everything TECH
+- 🌱 I’m currently learning Linux, Homeassistant, Motion eye, Smarthome in general, And A LOT MORE!
+- 📫 You can reach me on instagram DM:S on @jontes.tech
