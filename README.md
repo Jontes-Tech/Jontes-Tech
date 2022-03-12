@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Jontes-Tech
-- 👀 I’m the most interested in new TECH
-- 🌱 I’m currently learning Linux, Servers, Docker, VMs and tech in general.
+- 👋 Sup, I'm Jonte!
+- 👀 I’m the most interested in OSes, VMs and containers and webdev.
+- 🌱 I’m currently learning linux and programming
 - 📫 You can reach me at jonatan@jontes.page
+- I have the website [Jontes.Page](https://jontes.page)
+- My favorite Discord Servers are [LEG](https://discord.gg/sc9dv8P) and [Devtalk](https://discord.gg/CuwUgSdQTp).
