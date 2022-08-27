@@ -1,4 +1,4 @@
 - 👋 Greetings, I'm Jonte!
 - 📫 You can reach me at jonatan@jontes.page
 - 🌐 I have the website [Jontes.Page](https://jontes.page)
-- 🔑 Get my [GPG Key](https://jontes.page/gpg)!
+- 🔑 Get my [GPG Key](https://jontes.page/gpg.txt)!
