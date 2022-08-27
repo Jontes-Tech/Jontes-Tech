@@ -1,6 +1,4 @@
-- 👋 Sup, I'm Jonte!
-- 👀 I’m the most interested in OSes, VMs and containers and webdev.
-- 🌱 I’m currently learning linux and programming
+- 👋 Greetings, I'm Jonte!
 - 📫 You can reach me at jonatan@jontes.page
-- I have the website [Jontes.Page](https://jontes.page)
-- My favorite Discord Servers are [LEG](https://discord.gg/sc9dv8P) and [Devtalk](https://discord.gg/CuwUgSdQTp).
+- 🌐 I have the website [Jontes.Page](https://jontes.page)
+- 🔑 Get my [GPG Key](https://jontes.page/gpg)!
