@@ -7,4 +7,4 @@ I'm always doing stuff. Whether it's [speaking at conferences](https://youtu.be/
 
 Whatever I'm doing it's a public good and usually opensource. I try to make this sphere of dirt a better place, one commit at a time.
 
-Oh, and I'm also a literal child. Below is my age (as of your page load). <br><img height="100px" src="https://api.jontes.page/age.png"/>
+Oh, and I'm also a literal child. Below is my age (as of your page load). <br><img height="100px" src="https://api.jontes.page/age.svg"/>
